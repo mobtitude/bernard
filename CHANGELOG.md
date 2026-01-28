@@ -1,6 +1,10 @@
 Changelog
 =========
 
+0.14.0 / 2026-01-28
+* Dropped support for PHP < 7.0
+* Fixed PHP 8.1 deprecation warnings (thanks @AdrienPoupa / @turbulent)
+
 0.11.0 / 2013-10-07
 -------------------
 
